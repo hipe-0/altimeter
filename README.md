@@ -8,7 +8,7 @@ Double usage : If you stay in one place, you can even use it to forecast the wea
 
 #features
 * color graphical display
-* Li-ion battery
+* Lithium rechargeable battery
 * on/off switch to save battery
 * Text is localized in French (can be changed easily in the code)
 * low cost

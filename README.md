@@ -10,7 +10,7 @@ Double usage : If you stay in one place, you can even use it to forecast the wea
 * color graphical display
 * Lithium rechargeable battery
 * on/off switch to save battery
-* altitude reference can be adjusted with 2 buttons for + and -
+* altitude reference can be adjusted with 2 buttons for + and -. You always need to give your altimeter a known reference before use.
 * Text is localized in French (that can be changed easily in the code)
 * some sound effects (buzzer) with volume control using the trimmer potentiometer
 * low cost (about 10 euros if you print the box yourself)

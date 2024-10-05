@@ -10,8 +10,12 @@ Double usage : If you stay in one place, you can even use it to forecast the wea
 * color graphical display
 * Lithium rechargeable battery
 * on/off switch to save battery
-* Text is localized in French (can be changed easily in the code)
-* low cost
+* altitude reference can be adjusted with 2 buttons for + and -
+* Text is localized in French (that can be changed easily in the code)
+* some sound effects (buzzer) with volume control using the trimmer potentiometer
+* low cost (about 10 euros if you print the box yourself)
+* fun to build
+* fully tested by a professional and highly motivated 9 year old tester inside our elevator (4 stories) :-)
 
 ![20240624_184935](https://github.com/user-attachments/assets/af7e3de7-cbc3-489c-8b8c-02f50e182074)
 

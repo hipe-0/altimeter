@@ -38,3 +38,12 @@ Double usage : If you stay in one place, you can even use it to forecast the wea
 
 # code
 in this repository
+
+#shematic
+![shematic](https://github.com/user-attachments/assets/936ec668-1de6-40b2-bfce-472d8ffcaf1e)
+
+![proto board view](https://github.com/user-attachments/assets/971b7cab-4f96-4a56-b90b-e25ec4271d4d)
+
+# new PCB design, untested, if you want to try?
+
+![pcb](https://github.com/user-attachments/assets/258f7ece-e908-404a-8c02-6512262eb32d)

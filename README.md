@@ -1,8 +1,7 @@
-# Altimeter
+Altimeter: Your Portable Altitude and Weather Companion
 
-This gadget measures the pressure around and computes your altitude wherever you go. 
-
-Double usage : If you stay in one place, you can even use it to forecast the weather.
+This handy gadget measures atmospheric air pressure to calculate your altitude on the go—perfect for hiking or exploring the outdoors. 
+When stationary, it doubles as a simple weather forecasting tool, making it a versatile addition to your adventures.
 
 ![20240624_184954](https://github.com/user-attachments/assets/87fe4fc2-74fb-4cef-8bc3-3d89b7f33aba)
 

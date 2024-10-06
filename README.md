@@ -5,7 +5,7 @@ When stationary, it doubles as a simple weather forecasting tool, making it a ve
 
 ![20240624_184954](https://github.com/user-attachments/assets/87fe4fc2-74fb-4cef-8bc3-3d89b7f33aba)
 
-#features
+# features
 * color graphical display
 * Lithium rechargeable battery
 * on/off switch to save battery
